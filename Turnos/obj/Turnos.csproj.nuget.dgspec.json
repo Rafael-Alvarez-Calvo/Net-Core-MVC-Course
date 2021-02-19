@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\Turnos.csproj": {}
+  },
+  "projects": {
+    "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\Turnos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\Turnos.csproj",
+        "projectName": "Turnos",
+        "projectPath": "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\Turnos.csproj",
+        "packagesPath": "C:\\Users\\PcCom\\.nuget\\packages\\",
+        "outputPath": "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PcCom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
