@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "w:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Views\\Especialidad\\Index.cshtml",
+      "TargetPath": "Views\\Especialidad\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "w:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

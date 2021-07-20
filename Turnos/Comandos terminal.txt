@@ -3,3 +3,4 @@ Comandos de terminal:
 dotnet new -h  --> muestra la ayuda de .Net para saber todos los tipos de proyecto que podemos crear con .Net
 dotnet run --> Arrancar la aplicación
 ctrl + c --> detener aplicación
+$ dotnet tool install --global dotnet-ef --version 5.0.1 esto instala la dependencia de entyity framework de manera global

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj": {}
+    "w:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj": {}
   },
   "projects": {
-    "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj": {
+    "w:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj",
+        "projectUniqueName": "w:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj",
         "projectName": "Turnos",
-        "projectPath": "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj",
+        "projectPath": "w:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj",
         "packagesPath": "C:\\Users\\PcCom\\.nuget\\packages\\",
-        "outputPath": "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\obj\\",
+        "outputPath": "w:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PcCom\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
