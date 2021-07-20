@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\Turnos.csproj",
+      "projectUniqueName": "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj",
       "projectName": "Turnos",
-      "projectPath": "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\Turnos.csproj",
+      "projectPath": "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj",
       "packagesPath": "C:\\Users\\PcCom\\.nuget\\packages\\",
-      "outputPath": "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\obj\\",
+      "outputPath": "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PcCom\\AppData\\Roaming\\NuGet\\NuGet.Config"

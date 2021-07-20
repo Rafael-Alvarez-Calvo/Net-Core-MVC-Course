@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zv+vJkfJ3oJ2pYQgxndmghytFLJeY2AazsSvjcLrNs1JN13MWpAa4rU9f7LaVTDM4WBX6ZkzfmWYMWLNb7ck5A==",
+  "dgSpecHash": "ZuuVY6CMH1OOiyG/IIWPiB7qf7HFWCYeZeurWjiy3/01gh8G6aa0EfMEVXvwNdAX8DOEQMoKZSXhsftJ4iHsTQ==",
   "success": true,
-  "projectFilePath": "W:\\Cursos Online - Udemy\\Curso de .Net Core\\Turnos\\Turnos.csproj",
+  "projectFilePath": "W:\\Cursos Online - Udemy\\Net-Core-MVC-Course\\Turnos\\Turnos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
